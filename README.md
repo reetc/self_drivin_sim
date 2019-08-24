@@ -5,4 +5,6 @@ sensor-based self driving car with Reinforcement Learning using Py-Torch which c
 ## Create Enviroment and Update it with dependencies
 
 source activate [envname]
+
+
 conda env update --file environment.yml
